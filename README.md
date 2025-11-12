@@ -1,4 +1,4 @@
-# solar-challenge-week0
+# 🌞 solar-challenge-week0
 
 ## Overview
 This repository contains the setup and preparation for the Solar Challenge Week 0 project.  
@@ -79,16 +79,14 @@ This dashboard allows exploration and comparison of solar farm data from **Benin
 
 1. **Activate your virtual environment**:
 
-```bash
-# On Linux / macOS
-source venv/bin/activate
+  ```bash
+  # On Linux / macOS
+  source venv/bin/activate
 
-# On Windows
-venv\Scripts\activate
+  # On Windows
+  venv\Scripts\activate
 
-
-
-
+---
 ## Author
 Tsion Mekasha Mamo
 GitHub: https://github.com/tsionmekasha/solar-challenge-week0.git
