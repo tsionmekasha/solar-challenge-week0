@@ -1,4 +1,5 @@
-data/
+data/raw/
+data/cleaned/
 *.csv
 __pycache__/
 *.py[cod]
