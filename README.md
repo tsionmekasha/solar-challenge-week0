@@ -71,6 +71,24 @@ Create compare-countries branch and compare_countries.ipynb for cross-country an
 
 ---
 
+## 🌞 Solar Data Discovery Dashboard
+
+This dashboard allows exploration and comparison of solar farm data from **Benin, Sierra Leone, and Togo**.
+
+### How to Run the Dashboard Locally
+
+1. **Activate your virtual environment**:
+
+```bash
+# On Linux / macOS
+source venv/bin/activate
+
+# On Windows
+venv\Scripts\activate
+
+
+
+
 ## Author
 Tsion Mekasha Mamo
 GitHub: https://github.com/tsionmekasha/solar-challenge-week0.git
